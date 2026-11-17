@@ -1,6 +1,6 @@
 # FLOKI agent team — content calendar (auto-generated)
 
-_Generated 2026-11-17T07:01:58 · 49 items · 211 planned slots over 30 days_
+_Generated 2026-11-17T20:35:35 · 49 items · 211 planned slots over 30 days_
 
 ## 2026-11-17
 - `08:30 UTC` ✅ **x/post** (GAMING) by SKALD — A playable game is the hardest thing for a memecoin to fake. Valhalla ties that loop to FLOKI instead of a sep
