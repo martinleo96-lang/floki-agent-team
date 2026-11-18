@@ -1,6 +1,6 @@
 # FLOKI agent team — content calendar (auto-generated)
 
-_Generated 2026-11-18T06:27:01 · 49 items · 210 planned slots over 30 days_
+_Generated 2026-11-18T20:08:31 · 49 items · 210 planned slots over 30 days_
 
 ## 2026-11-18
 - `08:30 UTC` ✅ **x/post** (DEFI_TRUST) by SKALD — FlokiFi Locker exists because 'we promise' is not a security model. A 0.3% DEX trading tax feeds the DAO treas
