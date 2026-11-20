@@ -1,15 +1,15 @@
 # METRA weekly report — FLOKI agent team
 
-_2026-11-19T20:08:47 · cycle 27 · projection model, not live analytics_
+_2026-11-20T06:14:41 · cycle 27 · projection model, not live analytics_
 
 ## Funnel
 
 - items produced: **49**
-- approved clean: **38** (77.6%)
-- auto-repaired by VIGIL: **11**
+- approved clean: **34** (69.4%)
+- auto-repaired by VIGIL: **15**
 - rejected: **0**
-- average compliance score: **98.8/100**
-- projected incremental reach: **9,673**
+- average compliance score: **98.0/100**
+- projected incremental reach: **9,242**
 
 ## Channel mix
 
@@ -27,19 +27,19 @@ _2026-11-19T20:08:47 · cycle 27 · projection model, not live analytics_
 - Spend, trade, own: 7
 - Shipped, not promised: 7
 - Valhalla & Veras: 7
-- Learn before you buy: 6
 - Build in public, risks included: 6
+- Learn before you buy: 6
 
 ## Top 5 projected performers
 
-1. **#0011 tiktok/short_script** — projected 389 · HOOK (0-3s) — text on screen: "Every memecoin claims a community. FLOKI's has a name: the Vikings."
-1. **#0025 tiktok/short_script** — projected 352 · HOOK (0-3s) — text on screen: "Every project has incidents. Very few publish the response."
-1. **#0032 tiktok/short_script** — projected 349 · HOOK (0-3s) — text on screen: "Most memecoins ship a roadmap. FLOKI shipped a game, a locker, and a 
-1. **#0038 tiktok/short_script** — projected 347 · HOOK (0-3s) — text on screen: "Valhalla has been on mainnet since June 30, 2025. Same month, most 'g
-1. **#0047 tiktok/short_script** — projected 340 · HOOK (0-3s) — text on screen: "'Trust me bro' is not due diligence. A public lock is."
+1. **#0019 tiktok/short_script** — projected 379 · HOOK (0-3s) — text on screen: "On Nov 5, 2026, Floki took its Telegram bot offline after an exploit.
+1. **#0047 tiktok/short_script** — projected 342 · HOOK (0-3s) — text on screen: "The most profitable thing in crypto is not a coin. It's knowing what 
+1. **#0005 tiktok/short_script** — projected 319 · HOOK (0-3s) — text on screen: "Culture is the only moat a memecoin can't copy-paste."
+1. **#0013 reddit/discussion_post** — projected 309 · Utility has a boring test: can you do something with it besides wait?
+1. **#0041 tiktok/short_script** — projected 288 · HOOK (0-3s) — text on screen: "Due diligence has a shortcut: look at the lock, not the leaderboard."
 
 ## Learnings for ATLAS
 
 - Best projected channel: **x** — shift one slot/day toward it.
-- Auto-repair rate 22.4% — keep VIGIL's soft-flag list tight or writers start self-censoring.
+- Auto-repair rate 30.6% — keep VIGIL's soft-flag list tight or writers start self-censoring.
 - Rotate TRANSPARENCY pillar twice weekly: highest save/share propensity in tests, lowest conversion to follows.
