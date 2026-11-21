@@ -1,6 +1,6 @@
 # METRA weekly report — FLOKI agent team
 
-_2026-11-21T06:04:18 · cycle 27 · projection model, not live analytics_
+_2026-11-21T18:49:22 · cycle 27 · projection model, not live analytics_
 
 ## Funnel
 
