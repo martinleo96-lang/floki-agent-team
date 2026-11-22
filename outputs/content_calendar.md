@@ -1,6 +1,6 @@
 # FLOKI agent team — content calendar (auto-generated)
 
-_Generated 2026-11-22T14:15:38 · 49 items · 209 planned slots over 30 days_
+_Generated 2026-11-22T23:22:49 · 49 items · 209 planned slots over 30 days_
 
 ## 2026-11-22
 - `08:30 UTC` ✅ **x/post** (TRANSPARENCY) by SKALD — Transparency is uncomfortable. That's the point. Venus Core Markets integration is still pending a governance 
