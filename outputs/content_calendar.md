@@ -1,6 +1,6 @@
 # FLOKI agent team — content calendar (auto-generated)
 
-_Generated 2026-11-27T07:18:11 · 49 items · 211 planned slots over 30 days_
+_Generated 2026-11-27T20:49:41 · 49 items · 211 planned slots over 30 days_
 
 ## 2026-11-27
 - `08:30 UTC` ✅ **x/post** (COMMUNITY) by SKALD — Four years of holders is not a launch, it's a track record. Bring questions. That's what the room is for. Viki
